@@ -2,6 +2,7 @@
 
 
 # Hi, I'm Kalaiyarasan S💫:
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 👋 I'm currently working on<br>Building scalable microservices using Java (Spring Boot), Docker, and PostgreSQL for banking and e-commerce domains.<br>🤝 I'm looking to collaborate on<br>Full-stack microservices projects, cloud deployment with AWS Fargate, and 3D Angular Website.<br>💬 I'm looking for help with<br>Advanced Spring Boot patterns, Kubernetes deployment, and optimizing CI/CD pipelines.<br>🌱 I'm currently learning<br>Resilience4j, Spring Security with JWT, and real-time communication using RabbitMQ.<br>❓ Ask me about<br>Java microservices architecture, Spring Boot API design, Angular frontends, and Dockerized deployments.<br>🎉 Fun fact<br>I love turning complex backend logic into clean, modular microservices — and I'm a fast learner who thrives on new challenges!
 
 
